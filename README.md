@@ -1,4 +1,4 @@
-# ATM App
+# ATM App 💰
 
 ## Description
 
