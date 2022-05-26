@@ -2,7 +2,7 @@
 
 ## Description
 
-In this project, I've create an ATM app to keep track of a bank account balance. The user can choose a drop down menu to deposit funds or request cash back. Once an option is selected, the user will enter the dollar amounts for the deposit or cash back and click the submit button to register the change in the account. The app will keep a running total of the account balance. If the user tries to withdrawal more cash back than what is available in the account, the submit button will be disabled.
+In this project, I've create an ATM app with [React](https://github.com/facebook/create-react-app) to keep track of a bank account balance. The user can choose a drop down menu to deposit funds or request cash back. Once an option is selected, the user will enter the dollar amounts for the deposit or cash back and click the submit button to register the change in the account. The app will keep a running total of the account balance. If the user tries to withdrawal more cash back than what is available in the account, the submit button will be disabled.
 
 The starter code was provided by MIT xPro.
 
@@ -21,6 +21,8 @@ Connect with me on [Twitter](https://twitter.com/kristinedugan) or [LinkedIn](ht
 ## License Information
 
 Some implementations and solutions in this project are derived from the provided lectures and materials of MIT xPro's MERN Stack Bootcamp course.
+
+[React](https://github.com/facebook/create-react-app) was used to create this app.
 
 ### MIT License
 
